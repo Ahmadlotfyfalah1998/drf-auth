@@ -7,4 +7,4 @@
 
 ### How to initialize/run your application (where applicable)
 ### docker compose run web python manage.py runserver  
-### How to use your library (where applicable)
+
